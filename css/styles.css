@@ -1,0 +1,24 @@
+body {
+    background-color: darkgray;
+}
+
+h1{
+    color: darkblue;
+}
+
+h3{
+    color: red;
+}
+
+div {
+
+    line-height: 1.8em;
+
+    border-style: solid;
+}
+
+p {
+    font-size: large;
+
+    font-style: oblique;
+}
